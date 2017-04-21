@@ -15,8 +15,8 @@
 	* to trans the directory into a repository
 * remember that you can have not only one repository on your PC,which means you have to operate the repository you want **under exact its own path**
 ---
-## Link to a Remote Repository
+## Bound a local repository to a **remote** one
 * **[common]** git remote add origin git@github.com:Qsirman/Git.git
 	* the **Qsirman/Git.git** part can be replaced by your repository's address
 * **[common]** git push -u origin master
-	* One thing you have to mind is that you must add & commit something to your local repository,which means you **can not push a blank repository to remote origin**
+	* One thing you have to mind is that you must add & commit something to your local repository,which means you **can not push a blank repository to remote origin**`
